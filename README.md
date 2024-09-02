@@ -4,8 +4,7 @@ This project aims to analyze a dataset containing information about songs stream
 
 ## Dataset
 
-The dataset used for this project contains information about songs streamed on Spotify in 2021. It includes attributes like artist, genre, duration, popularity, and more. Prior to analysis, data cleaning and preprocessing steps are performed to ensure data quality and usability.
-
+"C:\Users\Admin\Downloads\spotify_songs.csv"
 ## Queries Implemented
 
 ### 1. Genre Analysis
